@@ -1,0 +1,18 @@
+body {
+    background-color: beige;
+}
+
+h4 {
+    margin-bottom: 4%;
+}
+
+.container .formulary {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.alert {
+    text-align: center;
+}
